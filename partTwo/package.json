@@ -1,0 +1,15 @@
+{
+  "name": "parttwo",
+  "version": "1.0.0",
+  "description": "Coding Challenge Part two",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "./node_modules/bower/lib/bin/bower install"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "serve-static": "^1.10.2",
+    "socket.io": "^1.4.5",
+    "bower": "^1.7.5"
+  }
+}

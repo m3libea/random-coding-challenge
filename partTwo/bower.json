@@ -1,0 +1,25 @@
+{
+  "name": "parttwo",
+  "description": "Coding Challenge Part two",
+  "main": "index.js",
+  "authors": [
+    "m3libea <rociorommor@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/m3libea/CodingChallenge-1",
+  "moduleType": [
+    "globals"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io-client": "^1.4.5",
+    "jquery": "^2.2.0"
+  }
+}
